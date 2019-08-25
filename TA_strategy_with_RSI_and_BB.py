@@ -4,9 +4,8 @@ import numpy as np
 from talib import RSI, BBANDS
 import matplotlib.pyplot as plt
 
-# Tried Technical Anlaysis strategy mentioned by Kyle Li in the post.
-https://towardsdatascience.com/trading-strategy-technical-analysis-with-python-ta-lib-3ce9d6ce5614
-# The code samples are joined and make it working version :
+# Tried Technical Anlaysis strategy mentioned by Kyle Li in the post. https://towardsdatascience.com/trading-strategy-technical-analysis-with-python-ta-lib-3ce9d6ce5614
+# The code samples are joined and made as working file
 
 start = '2015-04-22'
 end = '2017-04-22'
